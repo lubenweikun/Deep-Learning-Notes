@@ -117,7 +117,8 @@ optimizer.step()
 
 为什么归一化？  原始参数差距过大，使网络难以训练。归一化就是在输入网络之前把参数变成差不多的数据范围
 
-归一化公式：![Uploading image.png…]()
+归一化公式：<img width="239" height="83" alt="image" src="https://github.com/user-attachments/assets/dc310df8-a87f-4966-af4a-f8998f66cc0f" />
+
 
 
 
